@@ -1,4 +1,4 @@
-# CMS-style-blog-site
+# THE TECH BLOG
 
 ## AS A developer who writes about tech
 
